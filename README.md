@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**sufianesire/sufianesire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm S M Sufian Rizvi!
 
-Here are some ideas to get you started:
+👨‍💻 Software Developer | 🌍 Technology Enthusiast | 📚 Lifelong Learner | 📊 Data Science learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about leveraging technology to build innovative solutions that make a positive impact. I enjoy tackling complex problems and finding elegant solutions through coding.
+
+🔭 Currently, I am exploring various programming languages, frameworks, and tools to expand my skill set and stay up-to-date with the latest industry trends. Continuous learning is at the core of my professional journey.
+
+🌱 I am experienced in web_app, pwa, and I'm always excited to take on new challenges and broaden my horizons.
+
+🚀 Some of the technologies I enjoy working with include PHP,Laravel,NODEJS,BOOTSTRAP,REACTJS,JAVASCRIPT.
+
+💼 I have worked on a variety of projects, including [ERP,CRM].
+
+📫 You can reach me via smsufian.esire@gmail.com.
+
+🤝 I'm open to collaborations and would love to connect with like-minded developers, so feel free to reach out. Let's build amazing things together!
+
+Happy coding! 🚀
